@@ -1,9 +1,9 @@
 +++
-title =  "Auto Post Hugo Blog to Social Sites"
+title =  "Automate Posting Hugo Blog to Social Sites... Failure"
 date = "2024-06-14"
-description = "Installing a suitable headliner"
+description = "How not to automate posting to social sites"
 author = "Justin Napolitano"
-tags = ['python']
+tags = ['python', "hugo","programming","fail"]
 images = ["images/featured-caesar.jpg"]
 +++
 
