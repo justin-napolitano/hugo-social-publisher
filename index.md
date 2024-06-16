@@ -1,6 +1,6 @@
 +++
 title =  "Automate Posting Hugo Blog to Social Sites... Failure"
-date = "2024-06-14"
+date = "2024-06-15"
 description = "How not to automate posting to social sites"
 author = "Justin Napolitano"
 tags = ['python', "hugo","programming","fail"]
