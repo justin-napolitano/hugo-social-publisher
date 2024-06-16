@@ -4,7 +4,7 @@ date = "2024-06-15"
 description = "How not to automate posting to social sites"
 author = "Justin Napolitano"
 tags = ['python', "hugo","programming","fail"]
-images = ["images/featured-hugo.svg"]
+images = ["featured-hugo.svg"]
 +++
 
 
