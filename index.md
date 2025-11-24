@@ -1,12 +1,27 @@
 ---
-slug: "github-hugo-social-publisher"
-title: "hugo-social-publisher"
-repo: "justin-napolitano/hugo-social-publisher"
-githubUrl: "https://github.com/justin-napolitano/hugo-social-publisher"
-generatedAt: "2025-11-23T09:07:47.966715Z"
-source: "github-auto"
+slug: github-hugo-social-publisher
+title: Automating Social Media Posting for Hugo Blogs with Python
+repo: justin-napolitano/hugo-social-publisher
+githubUrl: https://github.com/justin-napolitano/hugo-social-publisher
+generatedAt: '2025-11-23T09:07:47.966715Z'
+source: github-auto
+summary: >-
+  Technical overview of automating Hugo blog post publishing to social media using YAML configs and
+  Python scripting for self-managed workflows.
+tags:
+  - hugo
+  - social-media
+  - automation
+  - python
+  - static-site
+  - publishing
+seoPrimaryKeyword: hugo social media automation
+seoSecondaryKeywords:
+  - python publisher
+  - static site publishing
+  - yaml configuration
+seoOptimized: true
 ---
-
 
 # Automating Hugo Blog Posts to Social Media: A Technical Overview
 
