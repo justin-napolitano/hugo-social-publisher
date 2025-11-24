@@ -21,6 +21,12 @@ seoSecondaryKeywords:
   - static site publishing
   - yaml configuration
 seoOptimized: true
+topicFamily: automation
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post centers around automating social media publishing for Hugo blogs using Python scripts and
+  configuration files, which matches the 'Automation' family description of scripts and projects
+  focused on automating content publishing workflows.
 ---
 
 # Automating Hugo Blog Posts to Social Media: A Technical Overview
@@ -108,3 +114,4 @@ This project serves as a technical exploration into automating social media post
 ---
 
 *This document is intended as a reference for future development and maintenance.*
+
