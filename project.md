@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/hugo-social-publisher
 generatedAt: '2025-11-24T21:35:09.797Z'
 source: github-auto
 summary: >-
-  Explore how to automate social media posts from Hugo blog content using Python
-  and YAML configuration.
+  Explore how to automate social media posts from Hugo blog content using Python and YAML
+  configuration.
 tags:
   - hugo
   - python
@@ -24,8 +24,8 @@ seoSecondaryKeywords:
   - python social media integration
   - yaml configuration for social media
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: automation
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -98,3 +98,4 @@ readme.md        # This README file
 ---
 
 *This project is in an early conceptual phase and serves as a personal experiment.*
+
